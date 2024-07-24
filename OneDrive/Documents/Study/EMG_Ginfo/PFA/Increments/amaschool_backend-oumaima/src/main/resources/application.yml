@@ -1,0 +1,13 @@
+spring:
+  datasource:
+    url: jdbc:mysql://62.72.19.105:3306/amaschool_DB
+    username: amaschool
+    password: amaschool2024@;
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+server:
+  servlet:
+    context-path: /api
+  port: 8080
