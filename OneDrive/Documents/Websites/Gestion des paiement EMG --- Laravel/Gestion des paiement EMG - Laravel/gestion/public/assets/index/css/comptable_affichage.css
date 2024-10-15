@@ -1,0 +1,11 @@
+/* styles.css */
+.app {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+input, button {
+    width: 100%;
+    margin-bottom: 10px;
+}
